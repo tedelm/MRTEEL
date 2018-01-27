@@ -12,7 +12,8 @@ Create your DIY Antenna from a small wire, cut to 29.4mm and expose 1-2mm wire a
 https://github.com/tedelm/MRTEEL/blob/master/IMG/29_4mmWire.jpg
 
 Cut the PCB antenna at the red marking on the picture
-https://github.com/tedelm/MRTEEL/blob/master/IMG/wemosd1miniCut.PNG
+
+<img src="https://github.com/tedelm/MRTEEL/blob/master/IMG/wemosd1miniCut.PNG" width="500"/>
 
 Solder the antenna wire to the Wemos D1 Mini PCB, base of the PCB antenna.
-<img src="https://raw.githubusercontent.com/tedelm/MRTEEL/master/IMG/CompleteHackAntenna.jpg" width="350"/>
+<img src="https://raw.githubusercontent.com/tedelm/MRTEEL/master/IMG/CompleteHackAntenna.jpg" width="500"/>
