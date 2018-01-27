@@ -2,10 +2,10 @@
 Wifi Signal strenght with and without the antenna mod.
 
 
-                               With			Without
-7m                              92%			80%
-10m + wall (outside house)	66%			30%
-50m + wall (outside house)	28%			0%
+| --- | With | Without |
+| 7m | 92% | 80% |
+| 10m + wall (outside house) | 66% | 30% |
+| 50m + wall (outside house) | 28% | 0% |
 
 
 Create your DIY Antenna from a small wire, cut to 29.4mm and expose 1-2mm wire at both ends and pre tin them.
