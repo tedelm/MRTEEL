@@ -2,7 +2,8 @@
 Wifi Signal strenght with and without the antenna mod.
 
 
-| --- | With | Without |
+|  | With | Without |
+| ------------- | ------------- |
 | 7m | 92% | 80% |
 | 10m + wall (outside house) | 66% | 30% |
 | 50m + wall (outside house) | 28% | 0% |
