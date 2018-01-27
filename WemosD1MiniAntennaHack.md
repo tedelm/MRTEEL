@@ -11,8 +11,7 @@ Wifi Signal strenght with and without the antenna mod.
 Create your DIY Antenna from a small wire, cut to 29.4mm and expose 1-2mm wire at both ends and pre tin them.
 <img src="https://github.com/tedelm/MRTEEL/blob/master/IMG/29_4mmWire.jpg" width="600"/>
 
-Cut the PCB antenna at the red marking on the picture
-
+Cut the PCB antenna at the red marking on the picture with a x-acto knife or scalpel
 <img src="https://github.com/tedelm/MRTEEL/blob/master/IMG/wemosd1miniCut.PNG" width="600"/>
 
 Solder the antenna wire to the Wemos D1 Mini PCB, base of the PCB antenna.
