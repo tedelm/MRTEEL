@@ -1,5 +1,5 @@
 
-Wifi Signal strenght with and without the antenna mod.
+<h1>Wifi Signal strenght with and without the antenna mod.</h1>
 
 
 |  | With | Without |
