@@ -15,21 +15,4 @@ Cut the PCB antenna at the red marking on the picture
 https://github.com/tedelm/MRTEEL/blob/master/IMG/wemosd1miniCut.PNG
 
 Solder the antenna wire to the Wemos D1 Mini PCB, base of the PCB antenna.
-<img>https://github.com/tedelm/MRTEEL/blob/master/IMG/CompleteHackAntenna.jpg</img>
-
-![GitHub Logo](https://raw.githubusercontent.com/tedelm/MRTEEL/master/IMG/CompleteHackAntenna.jpg)
-Format: ![Alt Text](url
-
-[Picture3](https://raw.githubusercontent.com/tedelm/MRTEEL/master/IMG/CompleteHackAntenna.jpg)
-
-[[https://raw.githubusercontent.com/tedelm/MRTEEL/master/IMG/CompleteHackAntenna.jpg|alt=endresult_]]
-
-![alt text](https://raw.githubusercontent.com/tedelm/MRTEEL/master/IMG/CompleteHackAntenna.jpg)
-
 <img src="https://raw.githubusercontent.com/tedelm/MRTEEL/master/IMG/CompleteHackAntenna.jpg" width="350"/>
-
-
-![Screenshot](https://raw.githubusercontent.com/tedelm/MRTEEL/master/IMG/CompleteHackAntenna.jpg)
-
-
-
