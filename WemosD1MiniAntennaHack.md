@@ -24,6 +24,7 @@ Disclaimer:
 Im no expert, try this at own risk.
 
 <h2>Tested this antenna for 9h with one upload per minute to validate battery usage</h2>
+The wifi AP was placed 10m (other side of the house) from the Wemos/ESP.
 
 540 updates (9h*60) and voltage dropped 0.04v
 <img src="https://github.com/tedelm/MRTEEL/blob/master/IMG/6h_60sec_volt.PNG" width="600"/>
