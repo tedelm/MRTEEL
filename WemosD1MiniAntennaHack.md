@@ -29,5 +29,6 @@ Im no expert, try this at own risk.
 <img src="https://github.com/tedelm/MRTEEL/blob/master/IMG/6h_60sec_volt.PNG" width="600"/>
 
 Average uploaded per 5 minutes
+
 <img src="https://github.com/tedelm/MRTEEL/blob/master/IMG/6h_60sec.PNG" width="600"/>
 
