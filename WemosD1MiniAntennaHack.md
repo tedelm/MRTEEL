@@ -10,7 +10,7 @@
 
 
 
-Create your DIY Antenna from a small wire, cut to 29.4mm and expose 1-2mm wire at both ends and pre tin them.
+Create your DIY Antenna from a small wire, cut to 29.4mm (20-31mm should be optimal for 1/4 wavelenght) and expose 1-2mm wire at both ends and pre tin them.
 <img src="https://github.com/tedelm/MRTEEL/blob/master/IMG/29_4mmWire.jpg" width="600"/>
 
 Cut the PCB antenna at the red marking on the picture with a x-acto knife or scalpel
@@ -22,3 +22,5 @@ Solder the antenna wire to the Wemos D1 Mini PCB, base of the PCB antenna.
 
 Disclaimer:
 Im no expert, try this at own risk.
+
+<h2>Tested this antenna for 9h with one upload per minute to validate battery usage</h2>
