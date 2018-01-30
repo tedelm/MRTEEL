@@ -7,3 +7,4 @@ will be uploading eagle and gerber files soon.
 
 <h3>Quick link:</h3> </br>
 Wemos d1 mini (ESP) antenna mod -> <a href='https://github.com/tedelm/MRTEEL/blob/master/WemosD1MiniAntennaHack.md'>Link</a>
+Build guide -> <a href='https://github.com/tedelm/MRTEEL/blob/master/MRTEELBuildGuide.md'>Link</a>
