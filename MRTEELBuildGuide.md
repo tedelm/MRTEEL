@@ -41,8 +41,8 @@ Generic parts to combine with SMD or Thru hole version
 <h2>Assembly</h2>
 <img src='IMG/PDB_v2.2_front.PNG'>
 <img src='IMG/PDB_v2.2_front2.PNG'>
-<img src='IMG/PDB_v2.2_front3.PNG'>
 <img src='IMG/PDB_v2.2_back.PNG'>
+<img src='IMG/PDB_v2.2_front3.PNG'>
 <img src='IMG/PDB_v2.2_back2.PNG'>
 
 
