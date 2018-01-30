@@ -11,5 +11,7 @@ will be uploading eagle and gerber files soon.
 3. MRTEEL PDB/Gerber files -> <a href='https://github.com/tedelm/MRTEEL/blob/master/MRTEELPCBGerber.md'>Link</a></br>
 
 # License
+You are granted to do what you want with the "MRTEEL" PCB as long as you retain the MRTEEL logo, but have in mind that "iSpindel" firmware is under a different license:</br>
 All rights reserverd, any commercial use is hereby prohibited and will violate applicable patents.
+
 
