@@ -33,3 +33,9 @@ Generic parts to combine with SMD or Thru hole version
 | 1 | 18650 Li-On battery ~2200mah| link |
 | 1 | 18650 Li-On Holder | link |
 | 1 | 3-pin OnOff button ("Toy button") | link |
+| 3 | 8-pin 2.54mm (male) | link |
+| 4 | 1-pin 2.54mm (male) | link |
+| 2 | 8-pin 2.54mm (female) | link |
+
+
+
