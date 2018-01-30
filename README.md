@@ -8,7 +8,7 @@ will be uploading eagle and gerber files soon.
 <h3>Quick link:</h3>
 1. Build guide -> <a href='https://github.com/tedelm/MRTEEL/blob/master/MRTEELBuildGuide.md'>Link</a></br>
 2. Wemos d1 mini (ESP) antenna mod -> <a href='https://github.com/tedelm/MRTEEL/blob/master/WemosD1MiniAntennaHack.md'>Link</a></br>
-3. MRTEEL PDB/Gerber files -> <a href='https://github.com/tedelm/MRTEEL/blob/master/MRTEELPCBGerber.md'>Link</a></br>
+3. MRTEEL PDB/Gerber files -> <a href='https://github.com/tedelm/MRTEEL/blob/master/MRTEEL_smd_v2.2.zip'>Link</a></br>
 4. iSpindel firmware files -> <a href='https://github.com/universam1/iSpindel/releases' target='_blank'>Link</a></br>
 
 # License
