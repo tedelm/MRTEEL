@@ -10,17 +10,17 @@ SMD version
 
 | pcs | part | link |
 | ------------- | ------------- | ------------- |
-| 1 | 470k Resistor | link |
-| 1 | 220k Resistor | link |
-| 1 | 4.7k Resistor | link |
+| 1 | 470k 1/4w Resistor | link |
+| 1 | 220k 1/4w  Resistor | link |
+| 1 | 4.7k 1/4w  Resistor | link |
 
 Thru hole version
 
 | pcs | part | link |
 | ------------- | ------------- | ------------- |
-| 1 | 470k Resistor | link |
-| 1 | 220k Resistor | link |
-| 1 | 4.7k Resistor | link |
+| 1 | 470k 1/4w  Resistor | link |
+| 1 | 220k 1/4w  Resistor | link |
+| 1 | 4.7k 1/4w  Resistor | link |
 
 Generic parts to combine with SMD or Thru hole version
 
@@ -31,3 +31,5 @@ Generic parts to combine with SMD or Thru hole version
 | 1 | MPU-5060 Gyro | link |
 | 1 | TP4056 Li-On charger 5v1a | link |
 | 1 | 18650 Li-On battery ~2200mah| link |
+| 1 | 18650 Li-On Holder | link |
+| 1 | 3-pin OnOff button ("Toy button") | link |
