@@ -8,10 +8,20 @@ SMD version
 
 | pcs | part | link |
 | ------------- | ------------- | ------------- |
-| 1 | SMD | link |
+| 1 | 470k Resistor | link |
+| 1 | 220k Resistor | link |
+| 1 | 4.7k Resistor | link |
 
 Thru hole version
 
 | pcs | part | link |
 | ------------- | ------------- | ------------- |
-| 1 | SMD | link |
+| 1 | 470k Resistor | link |
+| 1 | 220k Resistor | link |
+| 1 | 4.7k Resistor | link |
+
+Generic parts to combine with SMD or Thru hole version
+
+| pcs | part | link |
+| ------------- | ------------- | ------------- |
+| 1 | DS18b20 | link |
