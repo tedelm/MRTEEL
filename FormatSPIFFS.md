@@ -1,4 +1,4 @@
-# How to format SPIFFS file area
+# How to format SPIFFS file area (Wemos D1 Mini/iSpindel)
 
 Doing the steps below can destroy your ispindel/wemos, but I have done it <10 times without any issues (MRTEEL version).
 
