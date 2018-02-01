@@ -10,6 +10,7 @@
 2. Wemos d1 mini (ESP) antenna mod -> <a href='https://github.com/tedelm/MRTEEL/blob/master/WemosD1MiniAntennaHack.md'>Link</a></br>
 3. MRTEEL PDB/Gerber files -> <a href='https://github.com/tedelm/MRTEEL/blob/master/MRTEELPCBGerber.md'>Link</a></br>
 4. iSpindel firmware files -> <a href='https://github.com/universam1/iSpindel/releases' target='_blank'>Link</a></br>
+5. Format/Erase all settings (spiffs) -> <a href='https://github.com/tedelm/MRTEEL/blob/master/FormatSPIFFS.md'>Link</a></br>
 
 # License
 You are granted to do what you want with the "MRTEEL" PCB as long as you retain the MRTEEL logo, but have in mind that "iSpindel" firmware is under a different license:</br>
