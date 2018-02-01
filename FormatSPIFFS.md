@@ -19,7 +19,7 @@ Doing the steps below can destroy your ispindel/wemos, but I have done it <10 ti
 
 
 #Arduino code
-<code>
+
 #include <FS.h>
 
 
@@ -49,4 +49,4 @@ void eraseCFGFILE(){
   
 }
 
-</code>
+
