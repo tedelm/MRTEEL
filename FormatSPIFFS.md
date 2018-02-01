@@ -16,3 +16,36 @@ Doing the steps below can destroy your ispindel/wemos, but I have done it <10 ti
 8. Turn the iSpindel on and wait 30 seconds
 9. Do step 4-7 again but choose ispindel-fw .bin file to flash the iSpindel firmware back on to it. ->
 <a href='https://github.com/universam1/iSpindel/releases'>Link to ispindel firmware</a>
+
+
+#Arduino code
+
+#include <FS.h>
+
+
+void setup(){
+  Serial.begin(115200);
+  eraseCFGFILE();
+}
+void loop(){
+  Serial.println("Loop"); 
+  Serial.println(".");
+  Serial.println(".");
+}
+
+
+void eraseCFGFILE(){
+
+//Reset SPIFFS file
+    Serial.println("Formatting CFGFILE");
+	Serial.println(".");
+	Serial.println(".");
+	Serial.println(".");
+    SPIFFS.begin();
+    Serial.println(SPIFFS.format());
+    SPIFFS.end();
+    Serial.println("Format complete"); 
+//
+  
+}
+
