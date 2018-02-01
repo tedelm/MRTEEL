@@ -1,8 +1,8 @@
 # How to format SPIFFS file area
 
-Link to .bin-file -> <a href='https://github.com/tedelm/MRTEEL/blob/master/BIN/FormatSPIFFS/FormatSPIFFS_v1_WemosD1Mini.bin'>Link</a>
+Doing the steps below can destroy your ispindel/wemos, but I have done it <10 times without any issues (MRTEEL version).
 
-1. Download .bin-file
+1. Download .bin-file -> <a href='https://github.com/tedelm/MRTEEL/blob/master/BIN/FormatSPIFFS/FormatSPIFFS_v1_WemosD1Mini.bin'>Link</a>
 2. Download ESP8266Flasher -> 
 <a href='https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe'>Link x32</a>
 <a href='https://github.com/nodemcu/nodemcu-flasher/blob/master/Win64/Release/ESP8266Flasher.exe'>Link x64</a>
