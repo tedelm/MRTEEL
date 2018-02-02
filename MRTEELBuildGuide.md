@@ -37,6 +37,8 @@ Generic parts to combine with SMD or Thru hole version
 | 4 | 1-pin 2.54mm (male) | link |
 | 2 | 8-pin 2.54mm (female) | link |
 | 1 | Anti-vibration M3 Sponge | <a href='https://www.banggood.com/Realacc-50PCS-Landing-Skid-Gear-Frame-Anti-vibration-M3-Sponge-for-ZMR250-QAV250-210-RC-Multirotor-p-1081168.html?rmmds=myorder&ID=224&cur_warehouse=CN'>link</a> |
+| 1 | XL BIG PET Micro Geocaching container | link |
+
 
 
 <h2>Assembly</h2>
