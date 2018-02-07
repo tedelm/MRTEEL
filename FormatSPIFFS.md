@@ -1,5 +1,7 @@
 # How to format SPIFFS file area (Wemos D1 Mini/iSpindel)
 
+!Note, use this guide or just update to ispindel 5.7.0 or higher and do a "Factory reset"!
+
 Doing the steps below can destroy your ispindel/wemos, but I have done it <10 times without any issues (MRTEEL version).
 
 1. Download .bin-file -> <a href='https://github.com/tedelm/MRTEEL/blob/master/BIN/FormatSPIFFS/FormatSPIFFS_v1_WemosD1Mini.bin'>Link</a>
