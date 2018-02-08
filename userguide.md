@@ -4,15 +4,22 @@ How to set up and use iSpindel with ubidots.com
 </br>
 </br>
 
-<h2>Content</h2>
-1. General purpose 
-2. b
-3. c
-4. d
-5. e
+Content
+
+
+<ul>
+  <li>1. General purpose </li>
+  <li>2. </li>
+  <li>3. </li>
+  <li>4. </li>
+  <li>5. </li>
+  <li>6. </li>
+</ul>
+
 </br>
 </br>
-1.
+
+<h2>1. General purpose</h/2>
 
 
 
