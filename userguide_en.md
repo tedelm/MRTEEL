@@ -14,7 +14,7 @@ Content
 </br>
 </br>
 
-<h2>1. General purpose</h/2>
+<h2>1. General purpose</h2></br>
 Ispindel is used to mesure the amount of sugar in your beer while its fermenting
 </br>
 </br>
