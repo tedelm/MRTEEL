@@ -1,6 +1,4 @@
-<h1>HowTo101</h1>
-</br>
-How to set up and use iSpindel with ubidots.com
+<h1>HowTo101 - How to set up and use iSpindel with ubidots.com</h1>
 </br>
 </br>
 
