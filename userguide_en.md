@@ -36,16 +36,17 @@ Copy the "Default token" and save it to a textfile on your computer (lets keep i
 </br>
 <i>This is needed to be done only once.</i>
 </br>
+</br>
 Add 750grams of table sugar to 3 liters of boiling water and let it cool down to 20 degrees celsius
-</br>
+</br></br>
 Pour the water/sugar solution into a ~3 Liter (high) bowl. The ispindel will need to float without touching the bottom of the bowl.
-</br>
+</br></br>
 Start your iSpindel and place it in the water/sugar solution
-</br>
+</br></br>
 On your computer/smart phone, go to wifi-settings and connect to the network called "iSpindel"
-</br>
+</br></br>
 After you are connected, open a web browser and brows to http://192.168.4.1
-</br>
+</br></br>
 Navigate to "iSpindel Test":
 </br>
 <img src='/IMG/ispindel_test_screen.PNG'>
@@ -54,6 +55,8 @@ Navigate to "iSpindel Test":
 Now you are going to download and open the calibration spreadsheet -> <a href='https://github.com/universam1/iSpindel/blob/master/docs/Kalibrierung.xlsm'>link to .xlsm</a>
 </br>
 <img src='/IMG/download_xlsm.PNG'>
+</br>
+<img src='/IMG/calibration_xlsm.PNG'>
 
 </br>
 </br>
