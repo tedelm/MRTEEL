@@ -37,6 +37,17 @@ Copy the "Default token" and save it to a textfile on your computer (lets keep i
 <i>This is needed to be done only once.</i>
 </br>
 </br>
+
+
+<lu>What you´ll need:
+<li>3 liters of water</li>
+<li>750grams of table sugar</li>
+<li>Computer that can open excel/xlsm documents</li>
+</lu>
+
+
+</br>
+</br>
 Add 750grams of table sugar to 3 liters of boiling water and let it cool down to 20 degrees celsius
 </br></br>
 Pour the water/sugar solution into a ~3 Liter (high) bowl. The ispindel will need to float without touching the bottom of the bowl.
