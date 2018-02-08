@@ -91,7 +91,19 @@ Save the "plato formel" string in a text document for later. This string is used
 </br>
 </br>
 <h2>3. Connect your iSpindel to Ubidots.com</h/2>
-
+</br>
+After the calibration it is time to connect your ispindel to ubidots and let it live its own life.
+</br>
+</br>
+Choose your desired wifi for the ispindel to use
+</br>
+Insert username/password for your wifi
+</br>
+Insert the API token you saved in a textfile from ubidots
+</br>
+Insert the "Plato Formel" from the "Kalibrierung.xlsm" document into "Gravity conversion/Polynominal"
+</br>
+<img src='/IMG/ispindel_connect_ubidots.PNG'>
 </br>
 </br>
 <h2>4. Custom values in Ubidots.com</h/2>
