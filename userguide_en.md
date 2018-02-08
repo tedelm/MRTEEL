@@ -40,9 +40,10 @@ Copy the "Default token" and save it to a textfile on your computer (lets keep i
 
 
 <lu>What you´ll need:
-<li>3 liters of water</li>
-<li>750grams of table sugar</li>
-<li>Computer that can open excel/xlsm documents</li>
+  <li>3 liters of water and something to boil it in</li>
+  <li>750grams of table sugar</li>
+  <li>A bowl that holds ~3 liters of liquid</li>
+  <li>Computer that can open excel/xlsm documents</li>
 </lu>
 
 
