@@ -12,7 +12,7 @@
 3. MRTEEL PDB/Gerber files -> <a href='https://github.com/tedelm/MRTEEL/blob/master/MRTEELPCBGerber.md'>Link</a></br>
 4. iSpindel firmware files -> <a href='https://github.com/universam1/iSpindel/releases' target='_blank'>Link</a></br>
 5. Format/Erase all settings (spiffs) -> <a href='https://github.com/tedelm/MRTEEL/blob/master/FormatSPIFFS.md'>Link</a></br>
-6. History <a href='https://github.com/tedelm/MRTEEL/releases'>Releases</a> <--
+6. History <a href='https://github.com/tedelm/MRTEEL/releases'>Releases</a> <--</br>
 7. HowTo (before first use) <a href='https://github.com/tedelm/MRTEEL/blob/master/userguide_en.md'> Link</a></br>
 
 
