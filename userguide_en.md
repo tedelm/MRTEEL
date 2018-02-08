@@ -53,7 +53,7 @@ Navigate to "iSpindel Test":
 </br>
 Now you are going to download and open the calibration spreadsheet -> <a href='https://github.com/universam1/iSpindel/blob/master/docs/Kalibrierung.xlsm'>link to .xlsm</a>
 </br>
-<img src='/IMG/download.xlsm.PNG'>
+<img src='/IMG/download_xlsm.PNG'>
 
 </br>
 </br>
