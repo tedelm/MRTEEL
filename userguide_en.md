@@ -44,9 +44,16 @@ Start your iSpindel and place it in the water/sugar solution
 </br>
 On your computer/smart phone, go to wifi-settings and connect to the network called "iSpindel"
 </br>
-After you are connected open a web browser and brows to http://192.168.4.1
+After you are connected, open a web browser and brows to http://192.168.4.1
 </br>
-
+Navigate to "iSpindel Test":
+</br>
+<img src='/IMG/ispindel_test_screen.PNG'>
+</br>
+</br>
+Now you are going to download and open the calibration spreadsheet -> <a href='https://github.com/universam1/iSpindel/blob/master/docs/Kalibrierung.xlsm'>link to .xlsm</a>
+</br>
+<img src='/IMG/download.xlsm.PNG'>
 
 </br>
 </br>
