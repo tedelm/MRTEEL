@@ -90,7 +90,7 @@ After you have done 10-15 readings of "tilt" and Plato you press "Formel update"
 Save the "plato formel" string in a text document for later. This string is used to convert your tilt value to plato and from plato to SG, ABV etc.
 </br>
 </br>
-<h2>3. Connect your iSpindel to Ubidots.com</h/2>
+<h2>3. Connect your iSpindel to Ubidots.com</h2>
 </br>
 After the calibration it is time to connect your ispindel to ubidots and let it live its own life.
 </br>
@@ -106,6 +106,6 @@ Insert the "Plato Formel" from the "Kalibrierung.xlsm" document into "Gravity co
 <img src='/IMG/ispindel_connect_ubidots.PNG'>
 </br>
 </br>
-<h2>4. Custom values in Ubidots.com</h/2>
+<h2>4. Custom values in Ubidots.com</h2>
 
 
