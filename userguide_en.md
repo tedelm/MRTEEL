@@ -43,6 +43,7 @@ Copy the "Default token" and save it to a textfile on your computer (lets keep i
   <li>3 liters of water and something to boil it in</li>
   <li>750grams of table sugar</li>
   <li>A bowl that holds ~3 liters of liquid</li>
+  <li>a Aerometer/Hydrometer or Refractometer</li>
   <li>Computer that can open excel/xlsm documents</li>
 </lu>
 
@@ -69,7 +70,17 @@ Now you are going to download and open the calibration spreadsheet -> <a href='h
 <img src='/IMG/download_xlsm.PNG'>
 </br>
 <img src='/IMG/calibration_xlsm.PNG'>
-
+</br>
+</br>
+You will now write down the tilt/angle of the iSpindel and use the Aerometer/Hydrometer to get the sugar content level (eg. 1.090).
+</br>
+In the "Kalibrierung.xlsm" document you´ll write down:
+</br>
+The tilt value in the first column "Winkel"
+</br>
+In the second column the PLATO value (you will need to convert SG to plato)
+</br>
+After you have written down these values you can now dilute the sugar solution with more water (20c) and then take 10-15 more readings and add them to the "Kalibrierung.xlsm" document
 </br>
 </br>
 <h2>3. Connect your iSpindel to Ubidots.com</h/2>
