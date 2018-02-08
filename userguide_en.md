@@ -76,11 +76,18 @@ You will now write down the tilt/angle of the iSpindel and use the Aerometer/Hyd
 </br>
 In the "Kalibrierung.xlsm" document you´ll write down:
 </br>
+</br>
 The tilt value in the first column "Winkel"
 </br>
 In the second column the PLATO value (you will need to convert SG to plato)
 </br>
-After you have written down these values you can now dilute the sugar solution with more water (20c) and then take 10-15 more readings and add them to the "Kalibrierung.xlsm" document
+</br>
+After you have written down these values you can now dilute the sugar solution with more water (20c) and then repeat the two steps above to take 10-15 more readings and adding them to the "Kalibrierung.xlsm" document.
+</br>
+</br>
+After you have done 10-15 readings of "tilt" and Plato you press "Formel update" in "Kalibrierung.xlsm" document and copy the "Plato Formel:"
+</br>
+Save the "plato formel" string in a text document for later. This string is used to convert your tilt value to plato and from plato to SG, ABV etc.
 </br>
 </br>
 <h2>3. Connect your iSpindel to Ubidots.com</h/2>
