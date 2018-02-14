@@ -10,6 +10,7 @@ Content
   <li>2. Steps before first use</li>
   <li>3. Connect your iSpindel to Ubidots.com</li>  
   <li>4. Custom values in Ubidots.com</li>
+  <li>5. Limitations and supported functions</li>
 </ul>
 
 </br>
@@ -108,4 +109,16 @@ Insert the "Plato Formel" from the "Kalibrierung.xlsm" document into "Gravity co
 </br>
 <h2>4. Custom values in Ubidots.com</h2>
 
+<h2>5. Limitations and supported functions</h2>
+<h3>5.1 Wifi settings</h3>
+</br></br>
+Supported wifi settings Wemos/Ispindel
+</br>
+* IEEE 802.11 b/g/n Wi-Fi - 2.4Ghz</br>
+* WEP, WPA/WPA2, or open networks</br>
+* Pre-shared key (PSK) should only use a-z,A-Z,0-9 (and no special characters) - eg. MyWifiPSK</br>
+* SSID (Wifi name) should only use a-z,A-Z,0-9 (and no special characters) - eg. MyWifiSSID</br>
+</br>
+</br>
+PSK/SSID limitations is due to html and ispindel firmware.
 
