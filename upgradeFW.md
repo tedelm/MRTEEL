@@ -9,7 +9,7 @@
 </br>
 </br>
 </br>
-</br>
+
 ### 1. OTA Upgrade - fw newer then 5.x.x 
 #### If you are running 5.xx you can update via ad-hoc network (192.168.4.1)
 1. Download the latest firmware .bin-file -> <a href='https://github.com/universam1/iSpindel/releases'>Link</a></br>
@@ -21,7 +21,7 @@
 
 </br>
 </br>
-</br>
+
 ### 2. Manual upgrade - fw older then 5.0.0
 1. Download the latest firmware .bin-file -> <a href='https://github.com/universam1/iSpindel/releases'>Link</a></br>
 2. Download ESP8266Flasher -> 
