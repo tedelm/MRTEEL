@@ -29,8 +29,8 @@
 <a href='https://github.com/nodemcu/nodemcu-flasher/blob/master/Win64/Release/ESP8266Flasher.exe'>Link x64</a></br>
 3. Connect iSpindel to your computer (USB) and switch it on</br>
 4. Start ESP8266Flasher</br>
-4a. Go to "Operation"-tab: Choose COM-port for iSpindel</br>
-4b. Go to "Config"-tab: On the first line, brows to the downloaded .bin-file</br>
+4.1. Go to "Operation"-tab: Choose COM-port for iSpindel</br>
+4.2. Go to "Config"-tab: On the first line, brows to the downloaded .bin-file</br>
 5. Go to "Operation"-tab:Choose "Flash" and wait for it to finish</br>
 6. Turn the iSpindel off</br>
 7. Disconnect iSpindel from USB</br>
