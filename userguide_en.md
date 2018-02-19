@@ -141,6 +141,14 @@ Insert the "Plato Formel" from the "Kalibrierung.xlsm" document into "Gravity co
 </br>
 </br>
 <h2>4. Custom values in Ubidots.com</h2>
+</br>
+<img src='/IMG/ubidots_Dashboard.PNG'>
+<img src='/IMG/ubidots_Dashboard_02.PNG'>
+<img src='/IMG/ubidots_Dashboard_03.PNG'>
+<img src='/IMG/ubidots_Dashboard_04.PNG'>
+<img src='/IMG/ubidots_Dashboard_05.PNG'>
+<img src='/IMG/ubidots_Dashboard_06.PNG'>
+
 
 <h2>5. Limitations and supported functions</h2>
 <h3>5.1 Wifi settings</h3>
