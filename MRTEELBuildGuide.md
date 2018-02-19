@@ -1,6 +1,8 @@
 
 # MRTEEL Build Guide
-You can build with two different types of resistors, SMD or Thru hole.
+## You can build with two different types of resistors, SMD or Thru hole.
+
+<a href='https://github.com/tedelm/MRTEEL/blob/master/README.md'>Back to meny</a></br></br>
 
 -- under construction --
 
