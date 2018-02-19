@@ -97,6 +97,8 @@ In the second column the PLATO value (you will need to convert SG to plato)
 <i>You can use this equation:</i>
 </br>
 plato = (-1 * 616.868) + (1111.14 * sg) – (630.272 * sg^2) + (135.997 * sg^3)
+</br>
+Here´s a homepage that does it for you -> <a href='http://betatestbrewing.com/pages/plato_to_sg.html'>http://betatestbrewing.com/pages/plato_to_sg.html</a>
 
 </br>
 </br>
