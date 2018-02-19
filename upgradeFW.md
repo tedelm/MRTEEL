@@ -6,11 +6,24 @@
   <li>2. Manual upgrade - fw older then 5.o.0</li>
 </ul>
 
+</br>
+</br>
+</br>
+</br>
 ### 1. OTA Upgrade - fw newer then 5.x.x 
+#### If you are running 5.xx you can update via ad-hoc network (192.168.4.1)
+1. Download the latest firmware .bin-file -> <a href='https://github.com/universam1/iSpindel/releases'>Link</a></br>
+3. Start your iSpindel in ad-hoc mode (wifi hotspot) and connect to the iSpindel wifi/SSID</br>
+4. Open a web browser and navigate to http://192.168.4.1</br>
+5. Choose "Maintenance"</br>
+6. Choose "Upgrade ispindel"</br>
+7. Brows to your downloaded .bin-file 
 
-
-### 2. Manual upgrade - fw older then 5.o.0
-1. Download the latest .bin-file of iSpindel -> <a href='https://github.com/universam1/iSpindel/releases'>Link</a></br>
+</br>
+</br>
+</br>
+### 2. Manual upgrade - fw older then 5.0.0
+1. Download the latest firmware .bin-file -> <a href='https://github.com/universam1/iSpindel/releases'>Link</a></br>
 2. Download ESP8266Flasher -> 
 <a href='https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe'>Link x32</a></br>
 <a href='https://github.com/nodemcu/nodemcu-flasher/blob/master/Win64/Release/ESP8266Flasher.exe'>Link x64</a></br>
