@@ -164,6 +164,7 @@ SG to ABV (1.045 is my Original Gravity "OG")</br>
 </br>
 <h2>4.2 Main Dashboard - Ubidots.com</h2>
 </br>
+Choosing what to show on your dashboard:
 <img src='/IMG/ubidots_Dashboard.PNG'>
 <img src='/IMG/ubidots_Dashboard_02.PNG'>
 <img src='/IMG/ubidots_Dashboard_03.PNG'>
