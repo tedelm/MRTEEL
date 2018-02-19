@@ -94,14 +94,19 @@ The tilt value in the first column "Winkel"
 In the second column the PLATO value (you will need to convert SG to plato)
 </br>
 <i>You can use this equation</i>
-
-<i>Or if you are running windows, powershell</i></br>
-<img src='/IMG/powershell_plato.PNG'>
 </br>
-<code>
+```powershell
+plato = (-1 * 616.868) + (1111.14 * sg) – (630.272 * sg^2) + (135.997 * sg^3)
+```
+</br>
+<i>Or if you are running windows, powershell</i></br>
+</br>
+
+```powershell
 $sg = 1.090
 [math]::Round($((-1 * 616.868) + (1111.14 * $sg) – (630.272 * ($sg*$sg)) + (135.997 * ($sg*$sg*$sg))),1)
-</code>
+```
+<img src='/IMG/powershell_plato.PNG'>
 </br>
 </br>
 After you have written down these values you can now dilute the sugar solution with more water (20c) and then repeat the two steps above to take 10-15 more readings and adding them to the "Kalibrierung.xlsm" document.
