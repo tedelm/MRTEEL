@@ -149,14 +149,14 @@ Insert the "Plato Formel" from the "Kalibrierung.xlsm" document into "Gravity co
 Tilt to Plato</br>
 <code>0.002116955*tilt*tilt+ 0.199562349*tilt- 6.669776696</code>
 <img src='/IMG/ubidots_Tilt_to_Plato.PNG'>
-Tilt to SG</br>
+Tilt to SG (Here I combine the Tilt to Plato string with Plato to SG)</br>
 <code>1+((0.002116955*tilt*tilt+0.199562349*tilt-6.669776696)/(258.6-(((0.002116955*tilt*tilt+0.199562349*tilt-6.669776696)/258.2)*227.1)))</code>
 <img src='/IMG/ubidots_Tilt_to_SG.PNG'>
 Plato to SG</br>
 <code></code>
 <img src='/IMG/ubidots_PLATO_to_SG.png'>
-SG to ABV</br>
-<code>(1.045-SGSG)*131.25</code>
+SG to ABV (1.045 is my Original Gravity "OG")</br>
+<code>(1.045-SG)*131.25</code>
 <img src='/IMG/ubidots_SG_to_ABV.PNG'>
 
 
