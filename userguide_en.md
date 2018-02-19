@@ -12,6 +12,10 @@ Content
   <li>4. Custom values in Ubidots.com</li>
   <li>5. Limitations and supported functions</li>
   <li>6. Misc</li>
+      <ul>
+        <li>6.1 Charging</li>
+        <li>6.2 Reset / Clear wifi credentials</li>
+      </ul>
 </ul>
 
 </br>
