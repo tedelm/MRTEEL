@@ -14,6 +14,10 @@ Content
       </ul>  
   <li>3. Connect your iSpindel to Ubidots.com</li>  
   <li>4. Custom values in Ubidots.com</li>
+      <ul>
+        <li>4.1 Derrived - Tilt = SG,PLATO,ABV - Ubidots.com</li>
+        <li>4.2 Main Dashboard - Ubidots.com</li>
+      </ul>
   <li>5. Limitations and supported functions</li>
   <li>6. Misc</li>
       <ul>
