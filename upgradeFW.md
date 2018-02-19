@@ -1,4 +1,4 @@
-#How to - Upgrade iSpindel firmware
+# How to - Upgrade iSpindel firmware
 ### If you are running 5.xx you can update via ad-hoc network (192.168.4.1)
 
 <ul>
