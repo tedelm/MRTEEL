@@ -95,9 +95,9 @@ In the second column the PLATO value (you will need to convert SG to plato)
 </br>
 <i>You can use this equation</i>
 </br>
-```powershell
 plato = (-1 * 616.868) + (1111.14 * sg) – (630.272 * sg^2) + (135.997 * sg^3)
-```
+
+</br>
 </br>
 <i>Or if you are running windows, powershell</i></br>
 </br>
@@ -106,6 +106,7 @@ plato = (-1 * 616.868) + (1111.14 * sg) – (630.272 * sg^2) + (135.997 * sg^3)
 $sg = 1.090
 [math]::Round($((-1 * 616.868) + (1111.14 * $sg) – (630.272 * ($sg*$sg)) + (135.997 * ($sg*$sg*$sg))),1)
 ```
+</br>
 <img src='/IMG/powershell_plato.PNG'>
 </br>
 </br>
