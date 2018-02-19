@@ -121,6 +121,8 @@ After you have done 10-15 readings of "tilt" and Plato you press "Formel update"
 </br>
 Save the "plato formel" string in a text document for later. This string is used to convert your tilt value to plato and from plato to SG, ABV etc.
 </br>
+Your Polynominal formel will look something like this: <code>0.002116955*tilt*tilt+ 0.199562349*tilt- 6.669776696</code>
+</br>
 </br>
 <h2>3. Connect your iSpindel to Ubidots.com</h2>
 </br>
