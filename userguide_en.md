@@ -93,7 +93,8 @@ The tilt value in the first column "Winkel"
 </br>
 In the second column the PLATO value (you will need to convert SG to plato)
 </br>
-<i>You can use this equation</i>
+</br>
+<i>You can use this equation:</i>
 </br>
 plato = (-1 * 616.868) + (1111.14 * sg) – (630.272 * sg^2) + (135.997 * sg^3)
 
@@ -103,8 +104,9 @@ plato = (-1 * 616.868) + (1111.14 * sg) – (630.272 * sg^2) + (135.997 * sg^3)
 </br>
 
 ```powershell
-$sg = 1.090
-[math]::Round($((-1 * 616.868) + (1111.14 * $sg) – (630.272 * ($sg*$sg)) + (135.997 * ($sg*$sg*$sg))),1)
+$sg = 1.090 #Your mesured SG value
+$plato = [math]::Round($((-1 * 616.868) + (1111.14 * $sg) – (630.272 * ($sg*$sg)) + (135.997 * ($sg*$sg*$sg))),1)
+Write-host "SG: $sg PLATO: $plato"
 ```
 </br>
 <img src='/IMG/powershell_plato.PNG'>
