@@ -8,6 +8,10 @@ Content
 <ul>
   <li>1. General purpose </li>
   <li>2. Steps before first use</li>
+      <ul>
+        <li>2.1 Ubidots</li>
+        <li>2.2 Calibrate your new iSpindel</li>
+      </ul>  
   <li>3. Connect your iSpindel to Ubidots.com</li>  
   <li>4. Custom values in Ubidots.com</li>
   <li>5. Limitations and supported functions</li>
@@ -26,7 +30,9 @@ Ispindel is used to mesure the amount of sugar in your beer while its fermenting
 </br>
 </br>
 <h2>2. Steps before first use</h/2></br>
-<h3>2.1. Create an account on <a href='https://www.ubidots.com'>ubidots.com</a></h3></br>
+<h3>2.1. Ubidots</h3>
+</br>
+Create an account on <a href='https://www.ubidots.com'>ubidots.com</a></br>
 </br>
 Log into your newly created ubidots account and navigate to "API Credentials" in the upper right corner
 </br>
