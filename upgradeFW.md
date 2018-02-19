@@ -1,4 +1,7 @@
 # How to - Upgrade iSpindel firmware
+
+<a href='https://github.com/tedelm/MRTEEL/blob/master/README.md'>Back to meny</a></br></br>
+
 ### If you are running 5.xx you can update via ad-hoc network (192.168.4.1)
 
 <ul>
