@@ -11,6 +11,7 @@ Content
   <li>3. Connect your iSpindel to Ubidots.com</li>  
   <li>4. Custom values in Ubidots.com</li>
   <li>5. Limitations and supported functions</li>
+  <li>6. Misc</li>
 </ul>
 
 </br>
@@ -122,3 +123,15 @@ Supported wifi settings Wemos/Ispindel
 </br>
 PSK/SSID limitations is due to html and ispindel firmware.
 
+<h2>6. Misc</h2>
+<h3>6.1 Charging</h3>
+</br>
+</br>
+<img src='/IMG/charge_usb.PNG'>
+</br>
+<h3>6.2 Reset/Clear wifi credentials</h3>
+</br>
+To clear the wifi credentials and gain access to the ad-hoc network (192.168.4.1). Start your iSpindel and within 1 sec press and hold the reset button on the side (marked as "Reset") for 5 sec.
+</br>
+<img src='/IMG/reset_button.PNG'>
+</br>
