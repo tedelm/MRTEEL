@@ -14,6 +14,7 @@
 5. Format/Erase all settings (spiffs) -> <a href='https://github.com/tedelm/MRTEEL/blob/master/FormatSPIFFS.md'>Link</a></br>
 6. History <a href='https://github.com/tedelm/MRTEEL/releases'>Releases</a> <--</br>
 7. HowTo (before first use) <a href='https://github.com/tedelm/MRTEEL/blob/master/userguide_en.md'> Link</a></br>
+8. HowTo (Upgrade firmware) <a href='https://github.com/tedelm/MRTEEL/blob/master/upgradeFW.md'> Link </a>
 
 
 # License
