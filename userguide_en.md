@@ -142,6 +142,28 @@ Insert the "Plato Formel" from the "Kalibrierung.xlsm" document into "Gravity co
 </br>
 <h2>4. Custom values in Ubidots.com</h2>
 </br>
+<h2>4.1 Derrived - Tilt = SG,PLATO,ABV - Ubidots.com</h2>
+</br>
+<img src='/IMG/ubidots_device.PNG'>
+<img src='/IMG/ubidots_derrived.PNG'>
+Tilt to Plato</br>
+<code>0.002116955*tilt*tilt+ 0.199562349*tilt- 6.669776696</code>
+<img src='/IMG/ubidots_Tilt_to_Plato.PNG'>
+Tilt to SG</br>
+<code>1+((0.002116955*tilt*tilt+0.199562349*tilt-6.669776696)/(258.6-(((0.002116955*tilt*tilt+0.199562349*tilt-6.669776696)/258.2)*227.1)))</code>
+<img src='/IMG/ubidots_Tilt_to_SG.PNG'>
+Plato to SG</br>
+<code></code>
+<img src='/IMG/ubidots_PLATO_to_SG.png'>
+SG to ABV</br>
+<code>(1.045-SGSG)*131.25</code>
+<img src='/IMG/ubidots_SG_to_ABV.PNG'>
+
+
+
+</br>
+<h2>4.2 Main Dashboard - Ubidots.com</h2>
+</br>
 <img src='/IMG/ubidots_Dashboard.PNG'>
 <img src='/IMG/ubidots_Dashboard_02.PNG'>
 <img src='/IMG/ubidots_Dashboard_03.PNG'>
