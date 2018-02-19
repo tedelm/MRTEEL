@@ -168,6 +168,7 @@ SG to ABV (1.045 is my Original Gravity "OG")</br>
 <img src='/IMG/ubidots_Dashboard_02.PNG'>
 <img src='/IMG/ubidots_Dashboard_03.PNG'>
 <img src='/IMG/ubidots_Dashboard_04.PNG'>
+To get the SG derivative to show 3 decimals:
 <img src='/IMG/ubidots_Dashboard_05.PNG'>
 <img src='/IMG/ubidots_Dashboard_06.PNG'>
 
