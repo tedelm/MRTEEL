@@ -29,10 +29,15 @@ Content
 </br>
 </br>
 
+
+
 <h2>1. General purpose</h2></br>
 Ispindel is used to mesure the amount of sugar in your beer while its fermenting
 </br>
 </br>
+
+
+
 <h2>2. Steps before first use</h/2></br>
 <h3>2.1. Ubidots</h3>
 </br>
@@ -48,6 +53,8 @@ Copy the "Default token" and save it to a textfile on your computer (lets keep i
 <img src='/IMG/ubidots_api_02.PNG'>
 </br>
 
+
+
 <h3>2.2. Calibrate your new iSpindel</h3></br>
 </br>
 <i>This is needed to be done only once.</i>
@@ -59,8 +66,9 @@ Copy the "Default token" and save it to a textfile on your computer (lets keep i
   <li>3 liters of water and something to boil it in</li>
   <li>750grams of table sugar</li>
   <li>A bowl that holds ~3 liters of liquid</li>
-  <li>a Aerometer/Hydrometer or Refractometer</li>
+  <li>A Aerometer/Hydrometer or Refractometer</li>
   <li>Computer that can open excel/xlsm documents</li>
+  <li>The excel/xlsm document - <a href='https://github.com/universam1/iSpindel/blob/master/docs/Kalibrierung.xlsm'>link</a></li>
 </lu>
 
 
@@ -128,6 +136,9 @@ Save the "plato formel" string in a text document for later. This string is used
 Your Polynominal formel will look something like this: <code>0.002116955*tilt*tilt+ 0.199562349*tilt- 6.669776696</code>
 </br>
 </br>
+
+
+
 <h2>3. Connect your iSpindel to Ubidots.com</h2>
 </br>
 After the calibration it is time to connect your ispindel to ubidots and let it live its own life.
@@ -144,8 +155,13 @@ Insert the "Plato Formel" from the "Kalibrierung.xlsm" document into "Gravity co
 <img src='/IMG/ispindel_connect_ubidots.PNG'>
 </br>
 </br>
+
+
+
 <h2>4. Custom values in Ubidots.com</h2>
 </br>
+
+
 <h2>4.1 Derrived - Tilt = SG,PLATO,ABV - Ubidots.com</h2>
 </br>
 <img src='/IMG/ubidots_device.PNG'>
@@ -164,7 +180,6 @@ SG to ABV (1.045 is my Original Gravity "OG")</br>
 <img src='/IMG/ubidots_SG_to_ABV.PNG'>
 
 
-
 </br>
 <h2>4.2 Main Dashboard - Ubidots.com</h2>
 </br>
@@ -179,6 +194,7 @@ To get the SG derivative to show 3 decimals:
 
 
 <h2>5. Limitations and supported functions</h2>
+
 <h3>5.1 Wifi settings</h3>
 </br></br>
 Supported wifi settings Wemos/Ispindel
@@ -191,12 +207,16 @@ Supported wifi settings Wemos/Ispindel
 </br>
 PSK/SSID limitations is due to html and ispindel firmware.
 
+
+
 <h2>6. Misc</h2>
+
 <h3>6.1 Charging</h3>
 </br>
 </br>
 <img src='/IMG/charge_usb.PNG'>
 </br>
+
 <h3>6.2 Reset/Clear wifi credentials</h3>
 </br>
 To clear the wifi credentials and gain access to the ad-hoc network (192.168.4.1). Start your iSpindel and within 1 sec press and hold the reset button on the side (marked as "Reset") for 5 sec.
