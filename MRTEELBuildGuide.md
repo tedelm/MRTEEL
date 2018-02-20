@@ -52,7 +52,7 @@ Generic parts to combine with SMD or Thru hole version
 
 ### Wemos D1 mini
 1. Flash the firmware to your Wemos (<a href='https://github.com/tedelm/MRTEEL/blob/master/upgradeFW.md'>how to</a>)
-2. Solder the 8 female pins
+2. Solder the 2x8 female pins
 3. Remove the 5v regulator beside the USB input
 
 </br>
