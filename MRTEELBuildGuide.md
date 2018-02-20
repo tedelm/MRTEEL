@@ -57,7 +57,9 @@ Generic parts to combine with SMD or Thru hole version
 
 </br>
 <img src='IMG/wemos_remove.PNG'>
-
+</br>
+End result after soldering the 2x8 female pins
+<img src='/IMG/reset_button.PNG'>
 </br>
 </br>
 
