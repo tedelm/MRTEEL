@@ -51,11 +51,13 @@ Generic parts to combine with SMD or Thru hole version
 <img src='IMG/PDB_v2.2_back2.PNG'>
 
 ### Wemos D1 mini
-1. Flash the firmware to your Wemos (how to)
+1. Flash the firmware to your Wemos (<a href='https://github.com/tedelm/MRTEEL/blob/master/upgradeFW.md'>how to</a>)
 2. Solder the 8 female pins
 3. Remove the 5v regulator beside the USB input
+
 </br>
 </br>
+
 ### MPU-6050
 1. Remove the LED diod
 2. Solder the 8 male pins to it, the MPU-6050 upside should be facing down to the MRTEEL PCB backside.
