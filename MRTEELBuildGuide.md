@@ -56,10 +56,14 @@ Generic parts to combine with SMD or Thru hole version
 3. Remove the 5v regulator beside the USB input
 
 </br>
+<img src='IMG/wemos_remove.PNG'>
+
+</br>
 </br>
 
 ### MPU-6050
 1. Remove the LED diod (blue led)
 2. Solder the 8 male pins to it, the MPU-6050 upside should be facing down to the MRTEEL PCB backside.
-
+</br>
+<img src='IMG/MPU6050_remove.PNG'>
 
