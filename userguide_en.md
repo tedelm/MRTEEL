@@ -26,11 +26,14 @@ Content
         <li>6.1 Charging</li>
         <li>6.2 Reset / Clear wifi credentials</li>
       </ul>
+  <li>7. Known issues</li>
+      <ul>
+        <li>7.1 No updates in ubidots</li>
+      </ul>
 </ul>
 
 </br>
 </br>
-
 
 
 <h2>1. General purpose</h2></br>
@@ -225,3 +228,20 @@ To clear the wifi credentials and gain access to the ad-hoc network (192.168.4.1
 </br>
 <img src='/IMG/reset_button.PNG'>
 </br>
+
+## 7. Known issues
+### 7.1 No updates in ubidots
+
+ 1. Check that the iSpindel wifi isn´t showing among your other wifi networks
+ 2. Verify in your home wifi router that "ESP-xxxx" or "iSpindel" is listed in your DHCP lease
+ 3. Check that wifi credentials are correct
+ 4. API credentials: Copy/Paste the API key from ubidots into the feild in iSpindel/Configuration page
+
+</br>
+
+#### IF you have checked all of these and you have a Device in ubidots.com called "iSpindel001" (or whatever you named it) then: 
+</br>
+
+A. Delete the device from ubidots (will remove all data in ubidots)</br>
+B. Rename your ispindel in configuration mode -> Connect to your iSpindel in ad-hoc (do a reset and brows to 192.168.4.1)</br></br>
+
