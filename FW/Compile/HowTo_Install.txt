@@ -1,0 +1,21 @@
+#Platform.io is used to build. Install platformio core and run pio run inside the pio folder.
+
+#Install
+https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi
+
+#Copy "get-pip.py" to "c:\Python27"
+
+#Install pip
+dc C:\Python27
+python get-pip.py
+
+#Install platformio
+dc C:\Python27
+pip install -U platformio
+
+#Compile iSpindel fw
+## Navigate to the pio folder
+cd pio
+
+## Run "pio run" to compile
+pio run
