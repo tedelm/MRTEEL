@@ -15,6 +15,7 @@
 6. iSpindel firmware files -> <a href='https://github.com/universam1/iSpindel/releases' target='_blank'>Link</a></br>
 7. Format/Erase all settings (spiffs) -> <a href='https://github.com/tedelm/MRTEEL/blob/master/FormatSPIFFS.md'>Link</a></br>
 8. History <a href='https://github.com/tedelm/MRTEEL/releases'>Releases</a> <--</br>
+9. <a href='https://github.com/tedelm/MRTEELSERVER'>MRTEELSERVER</a> (Connect ispindel to your own raspberry pi/webserver)
 
 
 
