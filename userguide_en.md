@@ -47,6 +47,7 @@ Ispindel is used to mesure the amount of sugar in your beer while its fermenting
 <h3>2.1. Ubidots</h3>
 </br>
 Create an account on <a href='https://www.ubidots.com'>ubidots.com</a></br>
+Free account @ <a href='https://ubidots.com/education/'>https://ubidots.com/education/</a></br>
 </br>
 Log into your newly created ubidots account and navigate to "API Credentials" in the upper right corner
 </br>
