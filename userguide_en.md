@@ -225,6 +225,7 @@ PSK/SSID limitations is due to html and ispindel firmware.
 <h3>6.2 Reset/Clear wifi credentials</h3>
 </br>
 To clear the wifi credentials and gain access to the ad-hoc network (192.168.4.1). Start your iSpindel and within 1 sec press and hold the reset button on the side (marked as "Reset") for 5 sec.
+If that doesn´t work, double tap the reset button (push two times). The blue LED will start to blink repeatedly.
 </br>
 <img src='/IMG/reset_button.PNG'>
 </br>
