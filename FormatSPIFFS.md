@@ -5,6 +5,7 @@
 
 ### Doing the steps below can destroy your ispindel/wemos, but I have done it <10 times without any issues (MRTEEL version).
 
+0. Download and install the Wemos D1 Mini Driver -> <a href='https://wiki.wemos.cc/downloads'>Link</a>
 1. Download .bin-file -> <a href='https://github.com/tedelm/MRTEEL/blob/master/BIN/FormatSPIFFS/FormatSPIFFS_v1_WemosD1Mini.bin'>Link</a>
 2. Download ESP8266Flasher -> 
 <a href='https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe'>Link x32</a>
