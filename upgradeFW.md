@@ -26,6 +26,7 @@
 </br>
 
 ### 2. Manual upgrade - fw older then 5.0.0
+0. Download and install the Wemos D1 Mini Driver<a href='https://wiki.wemos.cc/downloads'>Link</a>
 1. Download the latest firmware .bin-file -> <a href='https://github.com/universam1/iSpindel/releases'>Link</a></br>
 2. Download ESP8266Flasher -> 
 <a href='https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe'>Link x32</a>
